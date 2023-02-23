@@ -1,0 +1,24 @@
+header {
+    text-align: center;
+    color: rgb(129, 190, 68);
+}
+
+hr {
+    color: darkgreen;
+}
+
+figure{ 
+    text-align: center;
+}
+
+.verde {
+    background-color: rgb(181, 236, 144);
+}
+
+body {
+    background-color:rgb(224, 224, 224);
+}
+
+.seta {
+    text-align: right;
+}
